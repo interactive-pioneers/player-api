@@ -1,0 +1,22 @@
+{
+  "name": "vimeo-player-api",
+  "version": "1.0.0",
+  "description": "These are some examples and helpful things for using the Vimeo Player in your projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interactive-pioneers/player-api.git"
+  },
+  "keywords": [
+    "vimeo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/interactive-pioneers/player-api/issues"
+  },
+  "homepage": "https://github.com/interactive-pioneers/player-api#readme"
+}
